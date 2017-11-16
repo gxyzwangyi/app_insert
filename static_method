@@ -1,0 +1,8 @@
+{-relations-}
+dir:D:\files\dev\python\auto_test\src\apk\nanoTime\smali\com
+package:com.weavedin
+prototype:long java.lang.System::nanoTime();
+type:static
+{-generate-}
+aspect_dir:D:\files\dev\python\auto_test\src\scripts\aspect\
+classpath:D:\files\dev\python\auto_test\android.jar

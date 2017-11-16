@@ -1,0 +1,8 @@
+{-relations-}
+dir:D:\files\dev\python\auto_test\src\apk\newBrowser\smali\com
+package:com.weavedin
+prototype:java.net.URL java.net.URL::URL(java.lang.String);
+type:constructor
+{-generate-}
+aspect_dir:D:\files\dev\python\auto_test\src\scripts\aspect\
+classpath:D:\files\dev\python\auto_test\android.jar

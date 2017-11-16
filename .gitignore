@@ -1,0 +1,9 @@
+__pycache__/ 
+aspect/ 
+cache/ 
+smali/ 
+policy 
+*.pyc
+apks/
+.vscode/
+ 

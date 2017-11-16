@@ -1,0 +1,14 @@
+1 main.py  用于分解apk为各种包，测试是否能过重打包
+2 
+
+
+
+
+
+
+
+(1) javac将java源码编译到class文件；
+(2) dx工具将class文件转成dex文件；
+(3) baksmali[8]将dex文件转成Dalvik字节码。
+
+
